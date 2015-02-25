@@ -1,5 +1,7 @@
-# FileServer-QuickWins-PerformanceBenchmarking
+# FileServer - QuickWins - PerformanceBenchmarking
 
-Basic File Server configuration and simple performance benchmarking scripts. 
+Set of PowerShell scripts that performs basic configuration for Microsoft Windows Server 2012 R2 File Services as well as straightforward performance benchmarking.  
+
+
 
 
